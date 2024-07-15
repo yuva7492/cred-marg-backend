@@ -1,10 +1,5 @@
 package com.credmarg.credmarg.entity;
 
-
-
-
-import org.hibernate.validator.constraints.UniqueElements;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
